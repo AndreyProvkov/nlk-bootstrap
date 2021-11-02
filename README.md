@@ -1,2 +1,5 @@
 # nlk-bootstrap
-Learn project
+## Using technology
+- HTML
+- CSS
+- Bootstrap v4
